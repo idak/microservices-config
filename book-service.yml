@@ -1,8 +1,4 @@
-message: config server OK ...
 spring:
   jpa:
     hibernate:
       ddl-auto: none
-management:
-  security:
-    enabled: false
